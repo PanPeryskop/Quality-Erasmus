@@ -2,3 +2,4 @@ v1
 v2
 v3
 zmiana dla commita 6
+zmiana dla commita 7
