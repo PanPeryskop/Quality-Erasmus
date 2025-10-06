@@ -3,3 +3,4 @@ v2
 v3
 zmiana dla commita 5
 zmiana dla commita 8
+zmiana dla commita 10
